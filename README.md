@@ -17,3 +17,11 @@
 - Text editor
 - Fullscreen mode
 - Local server
+
+## Screenshot
+
+![Screenshot (72)](https://github.com/Rudransh2608/Netflix-clone/assets/160394256/90828079-93e6-42f7-9bad-114767af9221)
+
+![Screenshot (73)](https://github.com/Rudransh2608/Netflix-clone/assets/160394256/bb66be8b-8178-4c56-b787-0889ef103992)
+
+![Screenshot (74)](https://github.com/Rudransh2608/Netflix-clone/assets/160394256/4e52b65e-5760-4291-92f0-2439612aa3ad)
