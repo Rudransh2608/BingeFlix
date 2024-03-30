@@ -1,5 +1,6 @@
 # ✨ About the project:
 <p>This web application helps with learning the fundamentals of HTML, CSS, and JavaScript.Additionally, this clone has databases and a backend that help explain the principles of a full stack project.</p>
+
 ## Install Project
 
 ---django<br>
@@ -17,6 +18,7 @@
 - Text editor
 - Fullscreen mode
 - Local server
+- django tinymce
 
 ## Screenshot
 
